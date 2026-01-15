@@ -22,7 +22,6 @@ env.bak/
 .idea/
 
 # Dataset and output folders
-data/
 *.zip
 *.tar.gz
 
