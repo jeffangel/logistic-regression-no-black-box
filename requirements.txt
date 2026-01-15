@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+pydantic-settings>=2.0
+Pillow
+python-multipart
+huggingface_hub
+matplotlib

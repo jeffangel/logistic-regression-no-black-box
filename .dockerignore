@@ -1,0 +1,9 @@
+# Notebooks folder
+notebooks
+
+# Python cache
+__pycache__
+*.pyc
+
+# Run file
+run.sh

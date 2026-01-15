@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Dataset and output folders
+data/
+*.zip
+*.tar.gz
+
+# Colab and Kaggle generated files
+*.h5
+*.ckpt
+*.tflite
+*.onnx
+*.log
+
+# Cache and temporary files
+*.cache
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+
+# Mac and Linux hidden files
+._*
+
+# run local file
+run.sh
